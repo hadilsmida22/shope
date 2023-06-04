@@ -1,0 +1,233 @@
+marque;libelle;grammage;prix;nomMagasin
+"
+                    La pièce                    ";Laitue ;La pièce;"1
+dt
+725";carrefour
+JOUDA;Tomates fraîches concassées;La boite de 400g;"2
+dt
+500";carrefour
+"
+La barquette de 400g ";Oignon rouge en barquette;La barquette de 400g;"4
+dt
+600";carrefour
+"
+                    Au Kg                    ";Piment de Cayenne vert;Au Kg;"10
+dt
+700";carrefour
+"
+                    Au Kg                    ";Petit pois;Au Kg;"5
+dt
+405";carrefour
+"
+                    Au Kg                    ";Ail;Au Kg;"13
+dt
+225";carrefour
+"
+Au Kg ";Fenouil avec fane;Au Kg;"2
+dt
+415";carrefour
+"
+                    La botte                    ";Persil;La botte;"0
+dt
+790";carrefour
+"
+                    La boite de 250g                    ";Pois chiche fins;La boite de 250g;"4
+dt
+670";carrefour
+"
+                    La boite de 400g                    ";Haricots blancs ;La boite de 400g;"4
+dt
+610";carrefour
+"
+                    La barquette de 1Kg                    ";Dattes naturelles branchées;La barquette de 1Kg;"12
+dt
+500";carrefour
+"
+                    Le pot de 380g                    ";Confiture de fraises;Le pot de 380g;"6
+dt
+240";carrefour
+"
+                    Au Kg                    ";Pomme de terre;Au Kg;"1
+dt
+840";carrefour
+"
+                    La brique de 1L                    ";Boisson au jus de poire ;La brique de 1L;"3
+dt
+880";carrefour
+CHAHIA;Œufs frais jaune orange+;Le plateau de 30 oeufs;"14
+dt
+990";carrefour
+EL MAZRAA;Œufs frais adhayma EL BRIKA;Le plateau de 30 oeufs;"13
+dt
+350";carrefour
+LA GAZELLE;Chamia aux amandes;La boite de 185g;"4
+dt
+680";carrefour
+ROYAUME DES ABEILLES;Miel de romarin;Le pot de 250g;"9
+dt
+720";carrefour
+ODYSSEE;Saumon fumé aux poivres;La barquette de 50g;"14
+dt
+300";carrefour
+LE PETIT PARIS;Tomates concassées au basilic;La boite de 400g;"2
+dt
+270";carrefour
+DICK;Cuisse de poulet;Au Kg;"16
+dt
+490";carrefour
+AQUALINE;Eau minérale AQUALINE 2L;La bouteille de 2L;"0
+dt
+840";carrefour
+  ;Salade laitue;La pièce;1,350 DT;monoprix
+  JOUDA ;Concentré de tomate;400GR;2,590 DT;monoprix
+  ;Oignon rebeii;Conditionné par 1KG;1,230 DT/Kg;monoprix
+  ;Piment meski primeur;Conditionné par 500g;3,680 DT/Kg;monoprix
+  ;Petit pois;Conditionné par 1KG;5,500 DT/Kg;monoprix
+  ;Ail rouge sec;le kg;15,000 DT/Kg;monoprix
+  ;Tête de fenouil;Conditionné par 1KG;1,590 DT/Kg;monoprix
+  ;Persil;La botte;0,400 DT;monoprix
+  REFLET ;Pois chiche;200GR;5,340 DT;monoprix
+  JARDINS D'EMMA ;Haricots blancs;400GR;4,390 DT;monoprix
+  MOON DATES ;Dattes branchées;1kg;13,200 DT;monoprix
+  HALWANI ;Confiture;380GR;4,520 DT;monoprix
+  ;Pomme de terre nouvelle;Conditionné par 1KG;1,740 DT/Kg;monoprix
+  OH ;Nectar;1L;3,800 DT;monoprix
+  CHAHIA ;Œufs;30Pièces;18,190 DT;monoprix
+  EL MAZRAA ;Œufs;30 pièces;14,700 DT;monoprix
+  GAZELLE ;Chamia;185GR;4,290 DT;monoprix
+  ;Olives vertes slices;Conditionné par 200g;15,000 DT/Kg;monoprix
+  ROYAUME DES ABEILLES ;Miel;250GR;9,150 DT;monoprix
+  PETIT PARIS ;Tomate concassée;400GR;2,290 DT;monoprix
+  ;Haut de cuisse de poulet;le kg;12,300 DT/Kg;monoprix
+  AQUALINE ;Eau minérale;2L;0,650 DT;monoprix
+;Salade laitue;La pièce;1,250 DT/ Pièce;geant
+CAP BON;Double concentré de tomates;140GR;1,390 DT;geant
+;Piment meski;Conditionné par 500g;3,690 DT/ Kg;geant
+;Petit pois;Conditionné par 500g;3,800 DT/ Kg;geant
+;Ail rouge sec importé;Conditionné par 300g;14,490 DT/ Kg;geant
+;Tête de fenouil;Conditionné par 500g;1,980 DT/ Kg;geant
+;Persil;La botte;0,370 DT/ Pièce;geant
+;Petit pois;Conditionné par 500g;3,800 DT/ Kg;geant
+CAP D'OR;Haricot blanc;380GR;2,860 DT;geant
+HERO;Confiture;340GR Fraise;7,820 DT;geant
+;Pomme de terre nouvelle;Conditionné par 500g;1,490 DT/ Kg;geant
+OH;Boisson au jus;25CL Banane orange;1,190 DT;geant
+GAZELLE;Chamia;185GR Nature-tahina;4,090 DT;geant
+ROYAUME DES ABEILLES;Miel;250GR Thym;9,150 DT;geant
+SOTRAPA;Olives vertes meski grosses;Conditionné par 100g;8,900 DT/ Kg;geant
+;Haut de cuisse de poulet;Conditionné par 500g EN CAISSETTE;13,540 DT/ Kg;geant
+SOFPINCE;Balai;Dimension : 29x5.1x11.2cm;"4
+dt
+560";carrefour
+SOFPINCE;Raclette Royale grand modèle;Dimensions : 50.2x2x10.1cm;"4
+dt
+400";carrefour
+FINO;Lessive en poudre rose;Le sachet de 300g;"1
+dt
+360";carrefour
+LILAS;Lessive en poudre au savon de Marseille;Le sachet de 1Kg;"8
+dt
+950";carrefour
+SAVON DE CARTHAGE;Savon de ménage à l'huile d'olive;Le morceau de 500g;"4
+dt
+450";carrefour
+SOUPLINE;Assouplissant grand air;Le bidon de 3L;"17
+dt
+880";carrefour
+NASSIM;Désodorisant citron;Le flacon de 300ml;"5
+dt
+070";carrefour
+DIPTOX;Insecticide;La bombe de 500ml;"6
+dt
+500";carrefour
+LANCE;Insecticide;La bombe de 300ml;"4
+dt
+740";carrefour
+RENOVA;Essuie-tout 2 plis;Le lot de 2 rouleaux;"5
+dt
+700";carrefour
+LILAS;Essuie-tout citron Jumbo;Le sachet de 2 rouleaux;"11
+dt
+650";carrefour
+RKC;Serpillière égouttoir moyen modèle ;La serpillière de 55x40cm;"2
+dt
+250";carrefour
+VILEDA;Tampons à récurer Tip Top ;Le lot de 3 tampons;"4
+dt
+490";carrefour
+VILEDA;Tampons à récurer;Le lot de 3 tampons;"3
+dt
+520";carrefour
+SWEET;Sacs poubelle de 51L;Le lot de 10 sacs de 51L;"3
+dt
+100";carrefour
+JUDY;Eau de javel parfumée fleurs;Le bidon de 3L;"5
+dt
+590";carrefour
+JUDY;Nettoyant vitres vert;Le pistolet de 500ml;"5
+dt
+090";carrefour
+JUDY;Détartrant pêche;Le flacon de 750ml;"5
+dt
+660";carrefour
+GENERAL;Bloc WC océan bleu;Le bloc de 50g;"4
+dt
+850";carrefour
+JUDY;Nettoyant sol et surface lavande;Le bidon de 1.2L;"7
+dt
+880";carrefour
+LILAS;Nettoyant sol et surface fraîcheur jasmin;Le flacon de 1.5L;"8
+dt
+160";carrefour
+JUDY;Liquide vaisselle framboise;Le flacon de 580ml;"3
+dt
+120";carrefour
+PRIL;Liquide vaisselle citron 5 en 1;Le flacon de 960ml;"8
+dt
+100";carrefour
+  FINO ;Poudre mains;300GR;1,850 DT;monoprix
+  LILAS ;Poudre mains;1kg;8,990 DT;monoprix
+  SAVON DE CARTHAGE ;Savons de lavage;500GR;4,990 DT;monoprix
+  SOUPLINE ;Assouplissant;3L;12,190 DT;monoprix
+  NASSIM ;Désodorisant air;300ml;4,990 DT;monoprix
+  DIPTOX ;Insecticide tous insectes;500ML;5,500 DT;monoprix
+  LANCE ;Insecticide anti-volant;300ml;4,690 DT;monoprix
+  JUDY ;Eau de javel;3L;4,920 DT;monoprix
+  JUDY ;Nettoyant vitre;500ML;4,950 DT;monoprix
+  JUDY ;Gel détartrant;750ml;5,650 DT;monoprix
+  GENERAL ;Bloc de cuvette;50GR;5,090 DT;monoprix
+  JUDY ;Nettoyant sols et surfaces;1.2L;7,690 DT;monoprix
+  LILAS ;Nettoyant sol et surface;1.5L;5,990 DT;monoprix
+  JUDY ;Liquide vaisselle mains;580ML;2,750 DT;monoprix
+  PRIL ;Lave vaisselle mains;960ML;7,390 DT;monoprix
+  CRISTAL ;Balai;En plastique;4,990 DT;monoprix
+  CRISTAL ;Raclette;1;5,290 DT;monoprix
+  NANA ;Serpillère;3 pièces;2,690 DT;monoprix
+  TIP TOP ;Tampon éponge à récurer;3 pièces;4,590 DT;monoprix
+  CORAZZI ;Tampon à récurer;2 rouleaux;3,190 DT;monoprix
+  LILAS ;Essuie-tout;2Rouleaux;11,390 DT;monoprix
+  RENOVA ;Essuie-tout;10x51L;5,890 DT;monoprix
+  SWEET ;Sac poubelle;1KG Rose;2,990 DT;monoprix
+FINO;Poudre mains;1KG Savon de Marseille;6,200 DT;geant
+LILAS;Poudre mains;500GR;8,990 DT;geant
+SAVON DE CARTHAGE;Savons de lavage;3L Grand air;4,340 DT;geant
+SOUPLINE;Assouplissant;300ML;12,190 DT;geant
+NASSIM;Désodorisant air;500ML;4,770 DT;geant
+DIPTOX;Insecticide;300ML;5,390 DT;geant
+LANCE;Insecticide anti-volant;3L Fleurs;3,850 DT;geant
+JUDY;Eau de javel parfumée;500ML;5,590 DT;geant
+JUDY;Nettoyant vitre;750ML;4,690 DT;geant
+JUDY;Gel détartrant;50GR Juicy lemon;5,650 DT;geant
+GENERAL;Bloc cuvette solide;1.2L Lavande;4,650 DT;geant
+JUDY;Nettoyant sol et surface;1.5L;7,490 DT;geant
+LILAS;Nettoyant sol et surface;580ML Framboise;5,990 DT;geant
+JUDY;Liquide vaisselle mains;960ML Citron;2,750 DT;geant
+JUDY;Liquide vaisselle mains;Ref 1211;5,590 DT;geant
+CRISTAL;Balai flouka;;4,550 DT;geant
+CRISTAL;Raclette;0.75x0.55M;4,990 DT;geant
+L'ELEPHANT;Serpillère;3pièces;2,500 DT;geant
+TUNIJEX;Tampons éponge à récurer;3Pièces Simba XK214;3,890 DT;geant
+CORAZZI;Tampon à récurer;2 Plis-2 Rouleaux Prestige Jumbo;3,200 DT;geant
+LILAS;Essuie-tout;2Rouleaux Maxi absorbante-Blanc décoré;10,990 DT;geant
+RENOVA;Essuie-tout;51L - 10pièces;5,090 DT;geant
+SWEET;Sacs poubelle;;2,900 DT;geant
